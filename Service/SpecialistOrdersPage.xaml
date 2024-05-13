@@ -1,0 +1,182 @@
+﻿<Page x:Class="Service.SpecialistOrdersPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Service"
+      mc:Ignorable="d" 
+      d:DesignHeight="320" d:DesignWidth="800"
+      Title="SpecialistOrdersPage" Loaded="specload">
+    <Grid Background="{StaticResource BackgroundColor}">
+        <Grid.RowDefinitions >
+            <RowDefinition Height="20*"></RowDefinition>
+            <RowDefinition Height="5*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <DataGrid AutoGenerateColumns="false" x:Name= "GridSpecialistOrder" Grid.Row="0" CanUserAddRows="False" RowBackground="{StaticResource BackgroundColor}" HeadersVisibility="Column">
+            <DataGrid.Columns>
+                <!--<DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>ID</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ID_order}" TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>-->
+
+
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>Дата заказа</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Data_order,StringFormat=dd.MM.yyyy HH:mm}" TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>Клиент Имя</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Clients.First_name}" TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>Клиент Фамилия</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Clients.Last_name}" TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>Номер Телефона</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Clients.Number_phone}" TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>Оборудование</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock  Text="{Binding Client_equip.Type_equip}" TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>Проблема</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Client_equip.Description,TargetNullValue=Не указана}" TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>Статус</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Status}" TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>Услуга</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                                   <Run Text="{Binding Services.Name,StringFormat='{}{0}, '}" ></Run>
+                                   <Run Text="{Binding Services.Price,StringFormat={}{0:F2} руб.}"></Run>
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>Дата завершения</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Data_order1, StringFormat=dd.MM.yyyy, TargetNullValue=-}" TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>Срок сдачи</DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Deadline, StringFormat=dd.MM.yyyy,TargetNullValue=Не указан}" TextAlignment="Center" VerticalAlignment="Center" Padding="3 0">
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Name="Close" Padding="0" Width="35" Height="35" Click="CloseOrder_Click" ToolTipService.ShowOnDisabled="True">
+                                    <Button.Content>
+                                        <TextBlock FontFamily="Wingdings 2" Padding="0" Text="P" FontSize="20"/>
+                                    </Button.Content>
+                                    <Button.Resources>
+                                        <Style TargetType="Border">
+                                            <Setter Property="CornerRadius" Value="50"/>
+                                        </Style>
+                                        <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding ElementName=Close, Path=DataContext.Status}" Value="Готов">
+                                                    <Setter Property="IsEnabled" Value="False"/>
+                                                    <Setter Property="ToolTip" Value="Заказ завершен"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding ElementName=Close, Path=DataContext.Status}" Value="Не готов">
+                                                    <Setter Property="IsEnabled" Value="True"/>
+                                                    <Setter Property="ToolTip" Value="Завершить заказ"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Resources>
+                                </Button>
+
+                                <Button Name="createdogovor" Padding="0" Width="35" Height="35" ToolTip="Выбрать услугу" Click="vibor_usl">
+                                    <Button.Content>
+                                        <TextBlock FontFamily="Webdings" Padding="0" Text="'" FontSize="20"/>
+                                    </Button.Content>
+                                    <Button.Resources>
+                                        <Style TargetType="Border">
+                                            <Setter Property="CornerRadius" Value="50"/>
+                                        </Style>
+                                    </Button.Resources>
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <TextBlock Grid.Row="1" FontFamily="Tahoma" Margin="20,14,615,45" Grid.RowSpan="2">Поиск по ФИО и телефону:</TextBlock>
+        <TextBox Grid.Row="1" x:Name="Poisk" TextChanged="Poisk_TextChanged" Margin="190,14,0,0" HorizontalAlignment="Left" Width="135" Height="19" VerticalAlignment="Top" Grid.RowSpan="2"/>
+
+    </Grid>
+</Page>

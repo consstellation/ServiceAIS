@@ -1,0 +1,422 @@
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\bin\Debug\Service.exe.config
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\bin\Debug\Service.exe
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\bin\Debug\Service.pdb
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\MainWindow.g.cs
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\App.g.cs
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service_MarkupCompile.cache
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service_MarkupCompile.lref
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\MainWindow.baml
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service.g.resources
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service.Properties.Resources.resources
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service.csproj.GenerateResource.cache
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service.exe
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service.pdb
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\OrdersPage.g.cs
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service_Content.g.cs
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\App.baml
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\OrdersPage.baml
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\bin\Debug\EntityFramework.dll
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\bin\Debug\EntityFramework.xml
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\AddPage.g.cs
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\AddPage.baml
+D:\Курсовая работа. Второй курс\Проекты(демо)\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Курсовая работа. Второй курс\Service\bin\Debug\Service.exe.config
+D:\Курсовая работа. Второй курс\Service\bin\Debug\Service.exe
+D:\Курсовая работа. Второй курс\Service\bin\Debug\Service.pdb
+D:\Курсовая работа. Второй курс\Service\bin\Debug\EntityFramework.dll
+D:\Курсовая работа. Второй курс\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курсовая работа. Второй курс\Service\bin\Debug\EntityFramework.xml
+D:\Курсовая работа. Второй курс\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Курсовая работа. Второй курс\Service\obj\Debug\AddPage.g.cs
+D:\Курсовая работа. Второй курс\Service\obj\Debug\MainWindow.g.cs
+D:\Курсовая работа. Второй курс\Service\obj\Debug\OrdersPage.g.cs
+D:\Курсовая работа. Второй курс\Service\obj\Debug\App.g.cs
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service_Content.g.cs
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service_MarkupCompile.cache
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service_MarkupCompile.lref
+D:\Курсовая работа. Второй курс\Service\obj\Debug\App.baml
+D:\Курсовая работа. Второй курс\Service\obj\Debug\AddPage.baml
+D:\Курсовая работа. Второй курс\Service\obj\Debug\MainWindow.baml
+D:\Курсовая работа. Второй курс\Service\obj\Debug\OrdersPage.baml
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service.g.resources
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service.Properties.Resources.resources
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service.csproj.GenerateResource.cache
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service.exe
+D:\Курсовая работа. Второй курс\Service\obj\Debug\Service.pdb
+C:\Users\bette\Desktop\Again\Service\bin\Debug\Service.exe.config
+C:\Users\bette\Desktop\Again\Service\bin\Debug\Service.exe
+C:\Users\bette\Desktop\Again\Service\bin\Debug\Service.pdb
+C:\Users\bette\Desktop\Again\Service\bin\Debug\EntityFramework.dll
+C:\Users\bette\Desktop\Again\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bette\Desktop\Again\Service\bin\Debug\EntityFramework.xml
+C:\Users\bette\Desktop\Again\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bette\Desktop\Again\Service\obj\Debug\AddPage.g.cs
+C:\Users\bette\Desktop\Again\Service\obj\Debug\MainWindow.g.cs
+C:\Users\bette\Desktop\Again\Service\obj\Debug\OrdersPage.g.cs
+C:\Users\bette\Desktop\Again\Service\obj\Debug\App.g.cs
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service_Content.g.cs
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service_MarkupCompile.cache
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service_MarkupCompile.lref
+C:\Users\bette\Desktop\Again\Service\obj\Debug\App.baml
+C:\Users\bette\Desktop\Again\Service\obj\Debug\AddPage.baml
+C:\Users\bette\Desktop\Again\Service\obj\Debug\MainWindow.baml
+C:\Users\bette\Desktop\Again\Service\obj\Debug\OrdersPage.baml
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service.g.resources
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service.exe
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service.pdb
+C:\Users\bette\Desktop\Again\Service\obj\Debug\AddAgainClient.g.cs
+C:\Users\bette\Desktop\Again\Service\obj\Debug\AddAgainClient.baml
+C:\Users\bette\Desktop\Again\Service\obj\Debug\LogPage.g.cs
+C:\Users\bette\Desktop\Again\Service\obj\Debug\LogPage.baml
+C:\Users\bette\Desktop\Again\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\bette\Desktop\Again 2\Service\bin\Debug\Service.exe.config
+C:\Users\bette\Desktop\Again 2\Service\bin\Debug\Service.exe
+C:\Users\bette\Desktop\Again 2\Service\bin\Debug\Service.pdb
+C:\Users\bette\Desktop\Again 2\Service\bin\Debug\EntityFramework.dll
+C:\Users\bette\Desktop\Again 2\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bette\Desktop\Again 2\Service\bin\Debug\EntityFramework.xml
+C:\Users\bette\Desktop\Again 2\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\AddAgainClient.g.cs
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\AddPage.g.cs
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\LogPage.g.cs
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\MainWindow.g.cs
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\OrdersPage.g.cs
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\App.g.cs
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service_Content.g.cs
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service_MarkupCompile.cache
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service_MarkupCompile.lref
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\App.baml
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\AddAgainClient.baml
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\AddPage.baml
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\LogPage.baml
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\MainWindow.baml
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\OrdersPage.baml
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service.g.resources
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service.exe
+C:\Users\bette\Desktop\Again 2\Service\obj\Debug\Service.pdb
+C:\Users\bette\Desktop\Again3\Service\bin\Debug\Service.exe.config
+C:\Users\bette\Desktop\Again3\Service\bin\Debug\Service.exe
+C:\Users\bette\Desktop\Again3\Service\bin\Debug\Service.pdb
+C:\Users\bette\Desktop\Again3\Service\bin\Debug\EntityFramework.dll
+C:\Users\bette\Desktop\Again3\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bette\Desktop\Again3\Service\bin\Debug\EntityFramework.xml
+C:\Users\bette\Desktop\Again3\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\AddAgainClient.g.cs
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\AddPage.g.cs
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\LogPage.g.cs
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\MainWindow.g.cs
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\OrdersPage.g.cs
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\App.g.cs
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service_Content.g.cs
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service_MarkupCompile.cache
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service_MarkupCompile.lref
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\App.baml
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\AddAgainClient.baml
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\AddPage.baml
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\LogPage.baml
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\MainWindow.baml
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\OrdersPage.baml
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service.g.resources
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service.exe
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service.pdb
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Transfer .g.cs
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Transfer .baml
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\SpecialWindow.g.cs
+C:\Users\bette\Desktop\Again3\Service\obj\Debug\SpecialWindow.baml
+C:\Users\bette\Desktop\addpagespec\Service\bin\Debug\Service.exe.config
+C:\Users\bette\Desktop\addpagespec\Service\bin\Debug\Service.exe
+C:\Users\bette\Desktop\addpagespec\Service\bin\Debug\Service.pdb
+C:\Users\bette\Desktop\addpagespec\Service\bin\Debug\EntityFramework.dll
+C:\Users\bette\Desktop\addpagespec\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bette\Desktop\addpagespec\Service\bin\Debug\EntityFramework.xml
+C:\Users\bette\Desktop\addpagespec\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\AddAgainClient.g.cs
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\AddPage.g.cs
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\LogPage.g.cs
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\MainWindow.g.cs
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\OrdersPage.g.cs
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\SpecialWindow.g.cs
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Transfer .g.cs
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\App.g.cs
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service_Content.g.cs
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service_MarkupCompile.cache
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service_MarkupCompile.lref
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\App.baml
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\AddAgainClient.baml
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\AddPage.baml
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\LogPage.baml
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\MainWindow.baml
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\OrdersPage.baml
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\SpecialWindow.baml
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Transfer .baml
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service.g.resources
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service.exe
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\Service.pdb
+C:\Users\bette\Desktop\addpagespec\Service\obj\Debug\SpecialistOrdersPage.g.cs
+C:\Users\bette\Desktop\еще раз\Service\bin\Debug\Service.exe.config
+C:\Users\bette\Desktop\еще раз\Service\bin\Debug\Service.exe
+C:\Users\bette\Desktop\еще раз\Service\bin\Debug\Service.pdb
+C:\Users\bette\Desktop\еще раз\Service\bin\Debug\EntityFramework.dll
+C:\Users\bette\Desktop\еще раз\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bette\Desktop\еще раз\Service\bin\Debug\EntityFramework.xml
+C:\Users\bette\Desktop\еще раз\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\AddAgainClient.g.cs
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\AddPage.g.cs
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\LogPage.g.cs
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\MainWindow.g.cs
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\OrdersPage.g.cs
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\SpecialistOrdersPage.g.cs
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\SpecialWindow.g.cs
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Transfer .g.cs
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\App.g.cs
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service_Content.g.cs
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service_MarkupCompile.cache
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service_MarkupCompile.lref
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\App.baml
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\AddAgainClient.baml
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\AddPage.baml
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\LogPage.baml
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\MainWindow.baml
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\OrdersPage.baml
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\SpecialistOrdersPage.baml
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\SpecialWindow.baml
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Transfer .baml
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service.g.resources
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service.exe
+C:\Users\bette\Desktop\еще раз\Service\obj\Debug\Service.pdb
+C:\Users\bette\Desktop\еще два\Service\bin\Debug\Service.exe.config
+C:\Users\bette\Desktop\еще два\Service\bin\Debug\Service.exe
+C:\Users\bette\Desktop\еще два\Service\bin\Debug\Service.pdb
+C:\Users\bette\Desktop\еще два\Service\bin\Debug\EntityFramework.dll
+C:\Users\bette\Desktop\еще два\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bette\Desktop\еще два\Service\bin\Debug\EntityFramework.xml
+C:\Users\bette\Desktop\еще два\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\AddAgainClient.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\AddPage.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\LogPage.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\MainWindow.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\OrdersPage.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\SpecialistOrdersPage.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\SpecialWindow.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Transfer .g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\App.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service_Content.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service_MarkupCompile.cache
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service_MarkupCompile.lref
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\App.baml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\AddAgainClient.baml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\AddPage.baml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\LogPage.baml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\MainWindow.baml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\OrdersPage.baml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\SpecialistOrdersPage.baml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\SpecialWindow.baml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Transfer .baml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service.g.resources
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service.exe
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service.pdb
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\SelectedService.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\SelectedService.baml
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service.csproj.ResolveComReference.cache
+C:\Users\bette\Desktop\еще два\Service\bin\Debug\shablon.docx
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\SelectedDate.g.cs
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\SelectedDate.baml
+D:\Programming\еще два\Service\bin\Debug\shablon.docx
+D:\Programming\еще два\Service\bin\Debug\Service.exe.config
+D:\Programming\еще два\Service\bin\Debug\Service.exe
+D:\Programming\еще два\Service\bin\Debug\Service.pdb
+D:\Programming\еще два\Service\bin\Debug\EntityFramework.dll
+D:\Programming\еще два\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\еще два\Service\bin\Debug\EntityFramework.xml
+D:\Programming\еще два\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\еще два\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Programming\еще два\Service\obj\Debug\Service.csproj.ResolveComReference.cache
+D:\Programming\еще два\Service\obj\Debug\AddAgainClient.g.cs
+D:\Programming\еще два\Service\obj\Debug\AddPage.g.cs
+D:\Programming\еще два\Service\obj\Debug\Dogovor.g.cs
+D:\Programming\еще два\Service\obj\Debug\LogPage.g.cs
+D:\Programming\еще два\Service\obj\Debug\MainWindow.g.cs
+D:\Programming\еще два\Service\obj\Debug\OrdersPage.g.cs
+D:\Programming\еще два\Service\obj\Debug\SelectedDate.g.cs
+D:\Programming\еще два\Service\obj\Debug\SelectedService.g.cs
+D:\Programming\еще два\Service\obj\Debug\SpecialistOrdersPage.g.cs
+D:\Programming\еще два\Service\obj\Debug\SpecialWindow.g.cs
+D:\Programming\еще два\Service\obj\Debug\Transfer .g.cs
+D:\Programming\еще два\Service\obj\Debug\App.g.cs
+D:\Programming\еще два\Service\obj\Debug\Service_Content.g.cs
+D:\Programming\еще два\Service\obj\Debug\Service_MarkupCompile.cache
+D:\Programming\еще два\Service\obj\Debug\Service_MarkupCompile.lref
+D:\Programming\еще два\Service\obj\Debug\App.baml
+D:\Programming\еще два\Service\obj\Debug\AddAgainClient.baml
+D:\Programming\еще два\Service\obj\Debug\AddPage.baml
+D:\Programming\еще два\Service\obj\Debug\Dogovor.baml
+D:\Programming\еще два\Service\obj\Debug\LogPage.baml
+D:\Programming\еще два\Service\obj\Debug\MainWindow.baml
+D:\Programming\еще два\Service\obj\Debug\OrdersPage.baml
+D:\Programming\еще два\Service\obj\Debug\SelectedDate.baml
+D:\Programming\еще два\Service\obj\Debug\SelectedService.baml
+D:\Programming\еще два\Service\obj\Debug\SpecialistOrdersPage.baml
+D:\Programming\еще два\Service\obj\Debug\SpecialWindow.baml
+D:\Programming\еще два\Service\obj\Debug\Transfer .baml
+D:\Programming\еще два\Service\obj\Debug\Service.g.resources
+D:\Programming\еще два\Service\obj\Debug\Service.Properties.Resources.resources
+D:\Programming\еще два\Service\obj\Debug\Service.csproj.GenerateResource.cache
+D:\Programming\еще два\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Programming\еще два\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Programming\еще два\Service\obj\Debug\Service.exe
+D:\Programming\еще два\Service\obj\Debug\Service.pdb
+C:\Users\bette\Desktop\еще два\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\bette\Desktop\Последний рывок\Service\bin\Debug\shablon.docx
+C:\Users\bette\Desktop\Последний рывок\Service\bin\Debug\Service.exe.config
+C:\Users\bette\Desktop\Последний рывок\Service\bin\Debug\Service.exe
+C:\Users\bette\Desktop\Последний рывок\Service\bin\Debug\Service.pdb
+C:\Users\bette\Desktop\Последний рывок\Service\bin\Debug\EntityFramework.dll
+C:\Users\bette\Desktop\Последний рывок\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bette\Desktop\Последний рывок\Service\bin\Debug\EntityFramework.xml
+C:\Users\bette\Desktop\Последний рывок\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service.csproj.ResolveComReference.cache
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\AddAgainClient.g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\AddPage.g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\LogPage.g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\MainWindow.g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\OrdersPage.g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\SelectedDate.g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\SelectedService.g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\SpecialistOrdersPage.g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Transfer .g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\App.g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service_Content.g.cs
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service_MarkupCompile.cache
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service_MarkupCompile.lref
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\App.baml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\AddAgainClient.baml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\AddPage.baml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\LogPage.baml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\MainWindow.baml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\OrdersPage.baml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\SelectedDate.baml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\SelectedService.baml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\SpecialistOrdersPage.baml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Transfer .baml
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service.g.resources
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service.exe
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service.pdb
+C:\Users\bette\Desktop\Последний рывок\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\bette\Desktop\ФИНАЛ!\Service\bin\Debug\shablon.docx
+C:\Users\bette\Desktop\ФИНАЛ!\Service\bin\Debug\Service.exe.config
+C:\Users\bette\Desktop\ФИНАЛ!\Service\bin\Debug\Service.exe
+C:\Users\bette\Desktop\ФИНАЛ!\Service\bin\Debug\Service.pdb
+C:\Users\bette\Desktop\ФИНАЛ!\Service\bin\Debug\EntityFramework.dll
+C:\Users\bette\Desktop\ФИНАЛ!\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bette\Desktop\ФИНАЛ!\Service\bin\Debug\EntityFramework.xml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service.csproj.ResolveComReference.cache
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\AddAgainClient.g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\AddPage.g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\LogPage.g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\MainWindow.g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\OrdersPage.g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\SelectedDate.g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\SelectedService.g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\SpecialistOrdersPage.g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Transfer .g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\App.g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service_Content.g.cs
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service_MarkupCompile.cache
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service_MarkupCompile.lref
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\App.baml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\AddAgainClient.baml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\AddPage.baml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\LogPage.baml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\MainWindow.baml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\OrdersPage.baml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\SelectedDate.baml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\SelectedService.baml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\SpecialistOrdersPage.baml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Transfer .baml
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service.g.resources
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service.exe
+C:\Users\bette\Desktop\ФИНАЛ!\Service\obj\Debug\Service.pdb
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\bin\Debug\shablon.docx
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\bin\Debug\Service.exe.config
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\bin\Debug\Service.exe
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\bin\Debug\Service.pdb
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\bin\Debug\EntityFramework.dll
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\bin\Debug\EntityFramework.xml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service.csproj.ResolveComReference.cache
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\AddAgainClient.g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\AddPage.g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\LogPage.g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\MainWindow.g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\OrdersPage.g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\SelectedDate.g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\SelectedService.g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\SpecialistOrdersPage.g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Transfer .g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\App.g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service_Content.g.cs
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service_MarkupCompile.cache
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service_MarkupCompile.lref
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\App.baml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\AddAgainClient.baml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\AddPage.baml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\LogPage.baml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\MainWindow.baml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\OrdersPage.baml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\SelectedDate.baml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\SelectedService.baml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\SpecialistOrdersPage.baml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Transfer .baml
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service.g.resources
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service.Properties.Resources.resources
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service.csproj.GenerateResource.cache
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service.exe
+D:\Programming\Второй курс\Курсовой проект\Servise\Service\obj\Debug\Service.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5916ad43cf204c4a8155dbb0d73c7599" Name="Diagram1" ZoomLevel="78">
+        <EntityTypeShape EntityType="CourseWork.V3.Model.Client_equip" Width="1.5" PointX="0.75" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CourseWork.V3.Model.Clients" Width="1.5" PointX="3.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CourseWork.V3.Model.List_spec" Width="1.5" PointX="3" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CourseWork.V3.Model.Users_service" Width="1.5" PointX="5.25" PointY="8" />
+        <AssociationConnector Association="CourseWork.V3.Model.FK_Users_service_List_spec" />
+        <EntityTypeShape EntityType="CourseWork.V3.Model.Orders" Width="1.5" PointX="6.875" PointY="3.25" />
+        <AssociationConnector Association="CourseWork.V3.Model.FK_Orders_Client_equip" />
+        <AssociationConnector Association="CourseWork.V3.Model.FK_Orders_Clients" />
+        <AssociationConnector Association="CourseWork.V3.Model.FK_Orders_List_spec" />
+        <EntityTypeShape EntityType="CourseWork.V3.Model.Services" Width="1.5" PointX="7.375" PointY="7.875" />
+        <AssociationConnector Association="CourseWork.V3.Model.FK_Orders_Services" />
+        <AssociationConnector Association="CourseWork.V3.Model.EquipServices" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

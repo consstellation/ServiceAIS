@@ -1,0 +1,22 @@
+﻿<Window x:Class="Service.LogPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Service"
+        mc:Ignorable="d"
+        Title="Сервис по ремонту компьютерной техники" Height="250" Width="367" WindowStartupLocation="CenterScreen" ResizeMode="NoResize"
+         FontSize="16"
+        FontFamily="Arial" Icon="se.ico"      
+        >
+    
+    <Grid Background="AliceBlue">
+        <TextBlock Margin="70,37,70,0" Text="Логин" VerticalAlignment="Top" TextAlignment="Center" FontStyle="Italic"/>
+        <TextBox Name="loginBox" Padding="1" Margin="70,60,70,0" VerticalAlignment="Top"/>
+
+        <TextBlock Margin="70,108,70,0" Text="Пароль" VerticalAlignment="Top" TextAlignment="Center" FontStyle="Italic"/>
+        <PasswordBox Name="passwordBox" Padding="1" Margin="70,130,70,0" VerticalAlignment="Top"/>
+
+        <Button Content="Войти" Padding="10, 1" HorizontalAlignment="Left" Margin="113,0,0,18" VerticalAlignment="Bottom" Click="Auth_Click" IsDefault="True" Height="23" Width="138" FontStyle="Italic" FontWeight="Bold" FontFamily="Tahoma"/>
+    </Grid>
+</Window>

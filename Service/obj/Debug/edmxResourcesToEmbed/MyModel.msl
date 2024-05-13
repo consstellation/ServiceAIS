@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище CourseWorkV3ModelContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Client_equip">
+      <EntityTypeMapping TypeName="CourseWork.V3.Model.Client_equip">
+        <MappingFragment StoreEntitySet="Client_equip">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ID_equip" ColumnName="ID_equip" />
+          <ScalarProperty Name="Type_equip" ColumnName="Type_equip" />
+          <ScalarProperty Name="Brand" ColumnName="Brand" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Password_OS" ColumnName="Password_OS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="CourseWork.V3.Model.Clients">
+        <MappingFragment StoreEntitySet="Clients">
+          <ScalarProperty Name="Patronymic" ColumnName="Patronymic" />
+          <ScalarProperty Name="ID_client" ColumnName="ID_client" />
+          <ScalarProperty Name="First_name" ColumnName="First_name" />
+          <ScalarProperty Name="Last_name" ColumnName="Last_name" />
+          <ScalarProperty Name="Passport_series" ColumnName="Passport_series" />
+          <ScalarProperty Name="Passport_number" ColumnName="Passport_number" />
+          <ScalarProperty Name="Number_phone" ColumnName="Number_phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="List_spec">
+      <EntityTypeMapping TypeName="CourseWork.V3.Model.List_spec">
+        <MappingFragment StoreEntitySet="List_spec">
+          <ScalarProperty Name="ID_specialist" ColumnName="ID_specialist" />
+          <ScalarProperty Name="First_name" ColumnName="First_name" />
+          <ScalarProperty Name="Last_Name" ColumnName="Last_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users_service">
+      <EntityTypeMapping TypeName="CourseWork.V3.Model.Users_service">
+        <MappingFragment StoreEntitySet="Users_service">
+          <ScalarProperty Name="ID_specialist" ColumnName="ID_specialist" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="ID_users" ColumnName="ID_users" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="CourseWork.V3.Model.Orders">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="Guaran" ColumnName="Guaran" />
+          <ScalarProperty Name="ID_Services" ColumnName="ID_Services" />
+          <ScalarProperty Name="Deadline" ColumnName="Deadline" />
+          <ScalarProperty Name="ID_specialist" ColumnName="ID_specialist" />
+          <ScalarProperty Name="Data_order1" ColumnName="Data_order1" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ID_equip" ColumnName="ID_equip" />
+          <ScalarProperty Name="ID_client" ColumnName="ID_client" />
+          <ScalarProperty Name="Data_order" ColumnName="Data_order" />
+          <ScalarProperty Name="ID_order" ColumnName="ID_order" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Services">
+      <EntityTypeMapping TypeName="CourseWork.V3.Model.Services">
+        <MappingFragment StoreEntitySet="Services">
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID_services" ColumnName="ID_services" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="EquipServices" TypeName="CourseWork.V3.Model.EquipServices" StoreEntitySet="EquipServices">
+      <EndProperty Name="Services">
+        <ScalarProperty Name="ID_services" ColumnName="id_service" />
+      </EndProperty>
+      <EndProperty Name="Client_equip">
+        <ScalarProperty Name="ID_equip" ColumnName="id_equip" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

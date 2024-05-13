@@ -1,0 +1,96 @@
+﻿<Page x:Class="Service.AddPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Service"
+      xmlns:sys="clr-namespace:System;assembly=mscorlib"
+      mc:Ignorable="d" 
+      d:DesignHeight="330" d:DesignWidth="800"
+      Title="AddPage" Background="{StaticResource BackgroundColor}">
+    <Grid x:Name="abd">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160*"></ColumnDefinition>
+            <ColumnDefinition Width="241*"></ColumnDefinition>
+            <ColumnDefinition Width="160*"></ColumnDefinition>
+            <ColumnDefinition Width="240*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <!--Заголовок-->
+        <TextBlock VerticalAlignment="Top" FontSize="15" x:Name="zagol" FontFamily="Tahoma" Height="18" Margin="230,10,199,0" Grid.Column="1" Grid.ColumnSpan="3" TextDecorations="{x:Null}" FontWeight="Bold" FontStyle="Italic">Создание заказа клиента</TextBlock>
+
+        <!--Добавление ID-->
+        <TextBlock  Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="4,10,95,0" Name="ID" Height="16" Width="61" FontFamily="Tahoma" TextDecorations="Underline" FontStyle="Italic">ID заказа</TextBlock>
+        <TextBox Grid.Column="1" Margin="20,5,0,0" Width="200" HorizontalAlignment="Left" Name="idtext" Text="{Binding ID_order}" Height="22" VerticalAlignment="Top" Grid.Row="1"/>
+
+
+        <!--Добавление имени-->
+        <TextBlock  Grid.Column="0" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="3,10,75,0" Height="12" Width="82" TextDecorations="Underline" FontStyle="Italic">Имя</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="2" Margin="20,6,0,0" Width="200" HorizontalAlignment="Left" Name="fn" Text="{Binding Clients.First_name}" Height="22" VerticalAlignment="Top"/>
+
+        <!--Добавление Отчества-->
+        <TextBlock  Grid.Column="0" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="3,10,95,0" Height="12" Width="62" FontFamily="Tw Cen MT" TextDecorations="Underline" FontStyle="Italic">Отчество</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="3" Margin="20,6,0,0" Width="200" HorizontalAlignment="Left" Name="patr" Text="{Binding Clients.Patronymic}" Height="22" VerticalAlignment="Top"/>
+
+        <!--Добавление фамилии-->
+        <TextBlock  Grid.Column="0" Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="3,10,85,0" Height="12" Width="72" TextDecorations="Underline" FontStyle="Italic">Фамилия</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="4" Margin="20,6,0,0" Width="200" HorizontalAlignment="Left" Name="ln" Text="{Binding Clients.Last_name}" Height="22" VerticalAlignment="Top"/>
+
+
+        <!--Добавление серия паспорта-->
+        <TextBlock  Grid.Column="0" Grid.Row="6" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="3,7,17,0" Height="12" Width="140" TextDecorations="Underline" FontStyle="Italic">Пасспорт: серия</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="6" Margin="20,6,0,0" Width="200" HorizontalAlignment="Left" Name="pas_ser" Text="{Binding Clients.Passport_series}" Height="22" VerticalAlignment="Top" PreviewTextInput="pas_ser_PreviewTextInput"/>
+
+        <!--Добавление  Номера паспорта-->
+        <TextBlock  Grid.Column="0" Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="3,7,25,0" Height="15" Width="132" TextDecorations="Underline" FontStyle="Italic">Пасспорт: номер</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="5" Margin="20,6,0,0" Width="200" HorizontalAlignment="Left" Name="pas_num" Text="{Binding Clients.Passport_number}" Height="22" VerticalAlignment="Top" PreviewTextInput="pas_num_PreviewTextInput"/>
+
+
+        <!--Добавление  Номера телефона-->
+        <TextBlock  Grid.Column="2" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="4,7,16,0" Height="19" Width="140" FontFamily="Tahoma" TextDecorations="Underline" FontStyle="Italic">Номер телефона</TextBlock>
+        <TextBox Grid.Column="3" Grid.Row="1" Margin="20,6,-43,0" Width="200" HorizontalAlignment="Left" Name="phone" Text="{Binding Clients.Number_phone}" Height="22" VerticalAlignment="Top"  PreviewTextInput="phone_PreviewTextInput_1"/>
+
+        <!--Добавление типа обрудования-->
+        <TextBlock  Grid.Column="2" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="3,10,42,0" Height="12" Width="114" TextDecorations="Underline" FontStyle="Italic">Тип оборудования</TextBlock>
+        <TextBox Grid.Column="3" Grid.Row="2" Margin="20,6,-43,0" Width="200" HorizontalAlignment="Left" Name="tq" Text="{Binding Client_equip.Type_equip}" Height="22" VerticalAlignment="Top"/>
+
+        <!--Добавление типа Брэнда-->
+        <TextBlock  Grid.Column="2" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="3,10,42,0" Height="12" Width="114" TextDecorations="Underline" FontStyle="Italic">Брэнд</TextBlock>
+        <TextBox Grid.Column="3" Grid.Row="3" Margin="20,6,-43,0" Width="200" HorizontalAlignment="Left" Name="br" Text="{Binding Client_equip.Brand}" Height="22" VerticalAlignment="Top"/>
+
+        <!--Добавление модели-->
+        <TextBlock  Grid.Column="2" Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="3,10,42,0" Height="12" Width="114" TextDecorations="Underline" FontStyle="Italic">Модель</TextBlock>
+        <TextBox Grid.Column="3" Grid.Row="4" Margin="20,6,-43,0" Width="200" HorizontalAlignment="Left" Name="mod" Text="{Binding Client_equip.Model}" Height="22" VerticalAlignment="Top"/>
+
+        <!--ПАароль OS-->
+        <TextBlock  Grid.Column="2" Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="3,10,42,0" Height="12" Width="114" TextDecorations="Underline" FontStyle="Italic">Пароль OS</TextBlock>
+        <TextBox Grid.Column="3" Grid.Row="5" Margin="20,6,-43,0" Width="200" HorizontalAlignment="Left" Name="pas" Text="{Binding Client_equip.Password_OS}" Height="22" VerticalAlignment="Top"/>
+
+        <!--Описание проблемы-->
+        <TextBlock  Grid.Column="2" Grid.Row="6" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="4,10,35,0" Height="12" Width="121" TextDecorations="Underline" FontStyle="Italic">Описание проблемы</TextBlock>
+        <TextBox Grid.Column="3" Grid.Row="6" Margin="20,6,-43,0" Width="200" HorizontalAlignment="Left" Name="des_mod" Text="{Binding Client_equip.Description}" Height="22" VerticalAlignment="Top"/>
+
+        <!--Срок сдачи-->
+        <TextBlock  Grid.Column="0" Grid.Row="7" HorizontalAlignment="Center" Margin="4,10,25,0" Width="131" Height="12" VerticalAlignment="Top" FontFamily="Tw Cen MT" TextDecorations="Underline" FontStyle="Italic">Срок сдачи</TextBlock>
+        <DatePicker Grid.Column="1" Grid.Row="7" Margin="20,0,0,0" Width="200" HorizontalAlignment="Left" x:Name="deadline" DisplayDateStart="{x:Static sys:DateTime.Now}" SelectedDate="{Binding Deadline, TargetNullValue={x:Static sys:DateTime.Now}}" Height="31" VerticalContentAlignment="Center" VerticalAlignment="Top"/>
+
+        <!--Кнопка добавить-->
+        <Button Grid.Column="0" Grid.Row="8" Content="Добавить" x:Name="add" HorizontalAlignment="Center" Margin="20,0,17,0"  VerticalAlignment="Bottom" Width="123" Click="Add_Click" Height="36" FontSize="12" FontFamily="Tahoma" FontStyle="Italic" FontWeight="Bold"/>
+        <!--Кнопка назад-->
+        <Button Grid.Column="3" Grid.Row="8" Content="Назад"  Click="Back_Click" HorizontalAlignment="Center" Margin="70,0,45,0"  VerticalAlignment="Bottom" Width="125" Height="36" FontSize="12" Background="White" FontFamily="Tahoma" FontWeight="Bold" FontStyle="Italic" />
+
+
+    </Grid>
+</Page>
